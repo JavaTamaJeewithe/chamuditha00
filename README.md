@@ -17,7 +17,8 @@ I m undergraduate at university of kelaniya in computer science. web developer, 
 
 * [x] O/L
 * [x] A/L
-* []  degree
+* [ ]  degree
+
 
 ![my image](https://avatars.githubusercontent.com/u/100656868?v=4)
 
